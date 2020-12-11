@@ -1,4 +1,4 @@
 {
-    "semi":false,   //  取消分号
+    "semi": false,   //  取消分号
     "singleQuote": true    //  单引号表示字符串
 }
